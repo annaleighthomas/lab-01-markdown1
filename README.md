@@ -29,3 +29,7 @@ _italics_
 | 2   | content | content |     |     |
 | 3   | content | content |     |     |
 |     |         |         |     |     |
+
+| this | is   | another | table |     |
+| ---- | ---- | ------- | ----- | --- |
+| with | more | content | !     |     |
